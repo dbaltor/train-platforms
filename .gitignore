@@ -1,0 +1,10 @@
+# Ignore Gradle
+.gradle
+build
+bin
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
